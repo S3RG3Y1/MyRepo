@@ -1,3 +1,4 @@
 Main branch text file
 Second text in main local branch
 First person make commit.
+Second person make commit.
