@@ -1,1 +1,2 @@
 Main branch text file
+Second text in main local branch
