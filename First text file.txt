@@ -3,3 +3,4 @@ Second text in main local branch
 First person make commit.
 First person make changes.Second person make commit.
 First person make changes.
+Second person make changes.
