@@ -1,5 +1,5 @@
-Main branch text file
-Second text in main local branch
+Main branch text file. And changes from p1b7
+First text in main local branch
 First person make commit.
 First person make changes.Second person make commit.
 First person make changes.
